@@ -1,7 +1,7 @@
 compiladores_t2
 ===============
 
-Facultad Politécnica - Universidad Nacional de Asuncón
+Facultad Politécnica - Universidad Nacional de Asunción
 
 Compiladores y Lenguajes de Bajo de Nivel - Tarea 2
 
